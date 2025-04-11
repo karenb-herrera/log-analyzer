@@ -1,0 +1,10 @@
+2025-04-11T10:00:00 INFO System started successfully
+2025-04-11T10:01:15 ERROR Failed to load configuration file
+2025-04-11T10:02:20 DEBUG Debugging system initialization
+2025-04-11T10:03:45 WARNING Disk space running low
+2025-04-11T10:04:10 ERROR Failed to connect to database
+2025-04-11T10:05:50 INFO User logged in successfully
+2025-04-11T10:06:00 FAILURE Failed to process user request
+2025-04-11T10:07:30 SUCCESS User request processed successfully
+2025-04-11T10:08:00 DEBUG Checking database connections
+2025-04-11T10:09:05 WARNING CPU usage high

@@ -1,0 +1,5 @@
+com\loganalyzer\Main.class
+com\loganalyzer\LogParser.class
+com\loganalyzer\LogEntry.class
+com\loganalyzer\LogLevel.class
+com\loganalyzer\LogAnalyzer.class
